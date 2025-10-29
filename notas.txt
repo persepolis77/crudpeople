@@ -1,0 +1,10 @@
+
+
+----
+ 
+
+git remote add origin https://github.com/persepolis77/crudpeople.git
+git push -u origin main
+
+
+https://www.youtube.com/watch?v=Gqr15Uvhr6s&list=PLxXpfdBOyZ_WZpH04MHQ8qepsA4Gs8cEk   min 19:16 como crear un serv con node y express
